@@ -50,10 +50,8 @@ namespace ModelBinderTesting.Tests
             var modelMetadata = ModelMetadataProviders.Current.GetMetadataForType(null, typeof(TModel));
             _bindingContext = new ModelBindingContext
             {
-                ModelName = typeof(TModel).Name,
                 ValueProvider = valueProvider,
-                ModelMetadata = modelMetadata,
-                FallbackToEmptyPrefix = true
+                ModelMetadata = modelMetadata
             };
         }
 
