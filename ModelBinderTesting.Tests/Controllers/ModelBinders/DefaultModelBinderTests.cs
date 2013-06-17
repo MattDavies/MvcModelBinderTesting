@@ -29,8 +29,5 @@ namespace ModelBinderTesting.Tests.Controllers.ModelBinders
             Assert.That(vm.TestInteger, Is.Null);
             AssertModelError("TestInteger", "The TestInteger field is required.");
         }
-
-        [Test]
-        public override void Bind_to_correct_model() { }
     }
 }
