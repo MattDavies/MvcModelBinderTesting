@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Specialized;
-using System.Linq;
+﻿using System.Collections.Specialized;
 using System.Web.Mvc;
-using Autofac.Integration.Mvc;
 using ModelBinderTesting.Controllers.ViewModels;
 using NUnit.Framework;
 

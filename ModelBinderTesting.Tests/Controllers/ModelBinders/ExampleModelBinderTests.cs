@@ -1,6 +1,4 @@
 ﻿using System.Collections.Specialized;
-using System.IO;
-using System.Web.Mvc;
 using ModelBinderTesting.Controllers.ModelBinders;
 using ModelBinderTesting.Controllers.ViewModels;
 using NUnit.Framework;
