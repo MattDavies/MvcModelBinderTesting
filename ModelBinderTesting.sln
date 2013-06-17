@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelBinderTesting", "ModelBinderTesting\ModelBinderTesting.csproj", "{B9DCA06A-1DEF-47B9-B82C-F4FD3E3DF37C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelBinderTesting.Tests", "ModelBinderTesting.Tests\ModelBinderTesting.Tests.csproj", "{B6D29668-8CB1-4B43-9F48-CEF9FFF7DBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9DCA06A-1DEF-47B9-B82C-F4FD3E3DF37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DCA06A-1DEF-47B9-B82C-F4FD3E3DF37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DCA06A-1DEF-47B9-B82C-F4FD3E3DF37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DCA06A-1DEF-47B9-B82C-F4FD3E3DF37C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D29668-8CB1-4B43-9F48-CEF9FFF7DBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D29668-8CB1-4B43-9F48-CEF9FFF7DBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D29668-8CB1-4B43-9F48-CEF9FFF7DBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D29668-8CB1-4B43-9F48-CEF9FFF7DBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
